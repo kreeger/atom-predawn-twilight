@@ -1,0 +1,15 @@
+{
+  "name": "predawn-twilight",
+  "theme": "syntax",
+  "version": "0.1.0",
+  "description": "An adoptation of Twilight for Predawn.",
+  "keywords": [
+    "syntax",
+    "theme"
+  ],
+  "repository": "https://github.com/kreeger/atom-predawn-twilight",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
+}
